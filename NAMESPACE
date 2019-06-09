@@ -1,0 +1,6 @@
+exportPattern("^[[:alpha:]]+")
+importFrom("graphics", "axis", "curve", "legend", "lines", "mtext",
+                "par", "plot", "points", "rect", "title")
+importFrom("stats", "aggregate", "approxfun", "splinefun")
+importFrom("RColorBrewer", "brewer.pal")
+

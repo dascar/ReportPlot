@@ -1,0 +1,12 @@
+Package: ReportPlot
+Type: Package
+Title: Provides a plotting function that is used in business reporting of a medical device manufacturer
+Version: 0.1
+Author: Andreas Wygrabek
+Maintainer: Andreas Wygrabek <andreas.wygrabek@data-science-architect.de>
+Description: The function was developed for a shiny report of a medical device manufacturer. More information about project and author: https://www.data-science-archtect.de.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Imports: RColorBrewer
+RoxygenNote: 6.1.1
